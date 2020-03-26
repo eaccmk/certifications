@@ -1,2 +1,3 @@
-# certifications
-PDF's of all certificates achieved by the developer
+# certifications | ALL
+
+Repos hosting all certificates
